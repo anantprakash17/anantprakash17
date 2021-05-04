@@ -1,4 +1,4 @@
-Hi, I am Anant. Welcome to my Github! I am currently working towards a degree in Computer Science and this github holds a projects that I have been working on over
+Hi, I am Anant. Welcome to my Github! I am currently working towards a degree in Computer Science and this github holds projects that I have been working on over
 the course of my learning. Most of these are personal projects for learning new concepts or experimenting with code. Feel free to look through the repositories and 
 check out what I have been up to.
 
